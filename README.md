@@ -16,3 +16,9 @@ What I am exploring :
 CampusX — 100 Days of Machine Learning
 
 I'll document my progress, code implementations, key takeaways, and experiments as I work through the playlist.
+
+🌱 A Work in Progress
+
+This repository will evolve as my knowledge grows. It isn't just a collection of completed courses; it's a record of the process of learning, questioning, experimenting, and building.
+
+One concept, one experiment, one step at a time.
