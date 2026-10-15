@@ -22,3 +22,32 @@ I'll document my progress, code implementations, key takeaways, and experiments 
 This repository will evolve as my knowledge grows. It isn't just a collection of completed courses; it's a record of the process of learning, questioning, experimenting, and building.
 
 One concept, one experiment, one step at a time.
+
+## 📚 Learning Resources
+
+This section contains the courses, tutorials, documentation, and other resources I use throughout my Machine Learning journey.
+
+### 1. Machine Learning
+
+- **CampusX — 100 Days of Machine Learning:** [YouTube Playlist](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH)
+
+### 2. Data Science
+
+- Python, NumPy, Pandas, statistics, SQL, and data visualisation resources will be added as I explore them.
+
+### 3. Deep Learning
+
+- Deep learning courses, tutorials, and documentation will be added as I progress.
+
+### 4. Generative AI
+
+- Generative AI, Large Language Models, embeddings, and RAG resources will be added as I explore these topics.
+
+### 5. Documentation & References
+
+- [scikit-learn Documentation](https://scikit-learn.org/stable/)
+- [NumPy Documentation](https://numpy.org/doc/)
+- [Pandas Documentation](https://pandas.pydata.org/docs/)
+- [PyTorch Documentation](https://pytorch.org/docs/stable/)
+
+*Resources will be updated as I discover and use them throughout this journey.*
